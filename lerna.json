@@ -1,0 +1,12 @@
+{
+  "version": "independent",
+  "command": {
+    "publish": {
+      "scope": "@tkww/*",
+      "message": "Publish packages"
+    }
+  },
+  "packages": [
+    "packages/*"
+  ]
+}
